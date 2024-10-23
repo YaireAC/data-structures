@@ -1,7 +1,7 @@
 # Data-Structures
-This course explored abstract data types, dynamic arrays, linked lists, trees and graphs, binary search trees, hash tables, storage management, complexity analysis of data structures. We expand our skills in C language with the following content:
+This course explored abstract data type. We expanded our skills in the C language with the following content:
 
-- Abstract data types and essential data structures
+- Abstract data types and essential data structures:
   - Dynamic arrays
   - Linked List
   - Stack, queue, deque
