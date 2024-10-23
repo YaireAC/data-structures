@@ -33,8 +33,8 @@ start building ADTs on top of other data structures. There are a couple parts to
 - queue is correct but no cirrcular buffer
 - queue_dequeue is not imlemented with a O(1) average runtime complexity
 - options 3 and 4 of the call center are not implemented:
-  3. Current state of the stack – answered calls
-  4. Current state of the queue – calls to be answered
+  - Current state of the stack – answered calls
+  - Current state of the queue – calls to be answered
 - 2 memory leaks in call center
 
 
