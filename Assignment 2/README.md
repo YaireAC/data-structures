@@ -1,6 +1,6 @@
 # Data-Structures-Assignment-2
 This is a program for the course Data Structures at Oregon State. This assignment was intended to have us start working with stacks and queues and to
-start building ADTs on top of other data structures. There are a couple parts to the assignment: implementing a stack, implementing a queue, implementing a basic call center using a stack and queue.
+start building ADTs on top of other data structures.
 
 
 ## The program completes the following requirements.
