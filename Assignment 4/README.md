@@ -6,7 +6,7 @@ This is a program for the course Data Structures at Oregon State. In this assign
 ### <ins>Correctly implements a priority queue based on a minimizing binary heap </ins>
 - struct pq defines a heap-based priority queue
 - `pq_create()` correctly allocates and initializes a heap-based priority queue
-- `pq_free()` correctly frees all memory associated with a priority queue (no memory leaks!)
+- `pq_free()` correctly frees all memory associated with a priority queue with no leaks
 - `pq_isempty()` correctly determines whether a priority queue contains any elements or not
 - `pq_first()` correctly returns the first value in a priority queue in O(1) runtime complexity
 - `pq_first_priority()` correctly returns priority value associated with the first element in a priority queue in O(1) runtime complexity
