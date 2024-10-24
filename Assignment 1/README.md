@@ -1,5 +1,5 @@
 # Data-Structures-Assignment-1
-This is a program for the course Data Structures at Oregon State. This assignment was intended to get us up and running with some of the tools to start programming in C. The assignment had two parts: Implementing a dynamic array and a single linked list.
+This is a program for the course Data Structures at Oregon State. This assignment was intended to get us up and running with some of the tools to start programming in C.
 
 ## The program completes the following requirements.
 
