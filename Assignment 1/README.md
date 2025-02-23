@@ -4,7 +4,7 @@ This is a program for the course Data Structures at Oregon State. This assignmen
 ## Requirements
 
 ### Dynamic Array
-- **`dynarray_size()`**: Returns the correct size of a dynamic array.
+- *`dynarray_size()`*: Returns the correct size of a dynamic array.
 - **`dynarray_free()`**: Correctly frees the memory allocated to a dynamic array.
 - **`dynarray_create()`**: Correctly allocates and initializes a dynamic array.
 - **`dynarray_insert()`**: Correctly inserts a value into a dynamic array, resizing the array when appropriate.
