@@ -1,4 +1,4 @@
-# Data-Structures-Assignment-1
+# Assignment 1
 This is a program for the course Data Structures at Oregon State. This assignment was intended to get us up and running with some of the tools to start programming in C.
 
 ## Requirements
